@@ -174,3 +174,4 @@ _build
 # disable image
 *.png
 other/
+*.pdf
