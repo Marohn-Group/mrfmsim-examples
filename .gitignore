@@ -175,3 +175,11 @@ _build
 *.png
 other/
 *.pdf
+figures/
+examples/data/other
+examples/scripts
+*.html
+*.jpeg
+*.bib
+*.csv
+*.c
