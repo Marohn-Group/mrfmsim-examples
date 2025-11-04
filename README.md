@@ -1,4 +1,6 @@
-# mrfmsim Examples
+[![DOI](https://zenodo.org/badge/705254177.svg)](https://doi.org/10.5281/zenodo.17519999)
+
+# mrfmsim examples
 
 This repository contains Jupyter notebooks and supporting code for reproducing the simulations and figures presented in the mrfmsim paper. The examples demonstrate the capabilities of the [mrfmsim](https://github.com/Marohn-Group/mrfmsim) package for simulating Magnetic Resonance Force Microscopy (MRFM) experiments.
 
