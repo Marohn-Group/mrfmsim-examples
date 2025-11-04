@@ -22,6 +22,8 @@ pip install git+https://github.com/Marohn-Group/mrfmsim-plot.git@v0.1.1
 
 ```
 
+A "figures" folder needs to be created under the /example directory to properly save the figures generated in this notebook.
+
 ## References
 
 1. **Moore et al. (2009)**: "Magnetic resonance force microscopy with a nickel tip and a near-surface ensemble of electron spins" *Proc. Natl. Acad. Sci. USA* **106**, 22251-22256
